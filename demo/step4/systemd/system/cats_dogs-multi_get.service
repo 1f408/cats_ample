@@ -1,0 +1,12 @@
+[Unit]
+Description=cats_dogs multi get service
+After=cats_dogs.target
+PartOf=cats_dogs.target
+
+[Service]
+ExecStart=/var/cats/bin/cat_multi_getexec /var/cats/etc/dogs/multi_get.conf
+User=demo
+Group=demo
+
+[Install]
+WantedBy=cats_dogs.target

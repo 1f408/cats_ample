@@ -1,0 +1,7 @@
+command_path = "/var/cats/var/api/exec.sh"
+command_argv = []
+exec_right = "@"
+
+content_type = "text/plain; charset=utf-8"
+
+[default_argv]

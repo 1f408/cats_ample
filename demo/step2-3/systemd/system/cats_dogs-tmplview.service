@@ -1,0 +1,12 @@
+[Unit]
+Description=cats_dogs template view service
+After=cats_dogs.target
+PartOf=cats_dogs.target
+
+[Service]
+ExecStart=/var/cats/bin/cat_tmplview /var/cats/etc/dogs/tmplview.conf
+User=demo
+Group=demo
+
+[Install]
+WantedBy=cats_dogs.target

@@ -1,0 +1,9 @@
+command_path = "/var/cats/var/api/csv.sh"
+command_argv = ["n", "i"]
+exec_right = "@"
+
+content_type = "text/csv; header=present; charset=utf-8"
+
+[default_argv]
+n="1"
+i=""

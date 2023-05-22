@@ -1,0 +1,11 @@
+url = "/api/sub/txt?i={i}&n={n}"
+
+[[var]]
+id = "n"
+label = "出力数"
+comment = "出力数(最大)"
+
+[[var]]
+id = "i"
+label = "除外"
+comment = "除外(カンマ区切り)"

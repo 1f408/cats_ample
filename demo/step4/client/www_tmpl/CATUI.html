@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+{{template "part_head.tmpl" . -}}
+<title>CatUI test HTML version</title>
+</head>
+<body>
+<h1>CatUI test HTML version</h1>
+<div id="style_config"></div>
+<h2>CSV出力タイプ</h2>
+{{cat_ui "csv" -}}
+
+<h2>テキスト出力タイプ</h2>
+{{cat_ui "sub/txt" -}}
+{{template "part_foot.tmpl" . -}}
+</body>
+</html>
