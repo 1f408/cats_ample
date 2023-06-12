@@ -1,0 +1,20 @@
+socket_type = "unix"
+socket_path = "127.0.0.1:9001"
+cache_control = "max-age=30, must-revalidate"
+
+document_root = "./mds"
+
+tmpl_paths = [
+  "./lib/tmpl/*.tmpl",
+  "./lib/app_tmpl/mdview.tmpl",
+]
+main_tmpl = "mdview.tmpl"
+index_name = "index.md"
+markdown_config  = "./markdown.conf"
+theme_style = "radio"
+
+url_top_path = "/"
+url_lib_path = "/YOUR_REPO_NAME/www"
+location_navi = "none"
+
+directory_view_mode = "none"
