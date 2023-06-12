@@ -53,3 +53,9 @@ Host demo-server
 
 その他必要な手順は、動画中に行っていきます。  
 それでは、[一緒に作りましょう](https://www.youtube.com/playlist?list=PLTKODctBx8g-gmC8lrM2KeRM5N7qXCdcE)！
+
+## おまけ
+
+cats\_dogs を使って、GitHub Pages のコンテンツを作成することもできます。  
+[1f408.github.io](https://1f408.github.io/pages/)のサイトも cats\_dogs でコンテンツを作成しています。  
+Ubuntu など仮想環境を用意する準備が難しい方は、[こちら](https://1f408.github.io/pages/static.html)からホームページを作成する方法をご覧ください。
