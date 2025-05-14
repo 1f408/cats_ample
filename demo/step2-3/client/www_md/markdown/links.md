@@ -6,14 +6,14 @@
 www.iij.ad.jp <i>autolink test1</i>  
 https://www.iij.ad.jp/ <i>autolink test2</i>  
 [IIJサイト](https://www.iij.ad.jp/)  
-[バルーンあり](https://www.iij.ad.jp/ "IJJサイト")  
+[バルーンあり](https://www.iij.ad.jp/ "IIJサイト")  
 [README](README.md)  
 ```
 
 www.iij.ad.jp <i>autolink test1</i>  
 https://www.iij.ad.jp/ <i>autolink test2</i>  
 [IIJサイト](https://www.iij.ad.jp/)  
-[バルーンあり](https://www.iij.ad.jp/ "IJJサイト")  
+[バルーンあり](https://www.iij.ad.jp/ "IIJサイト")  
 [README](README.md)  
 
 ## IDリンク
