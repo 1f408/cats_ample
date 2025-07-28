@@ -14,7 +14,7 @@ markdown_config  = "./markdown.conf"
 theme_style = "radio"
 
 url_top_path = "/"
-url_lib_path = "/YOUR_REPO_NAME/www"
+url_lib_path = "/YOUR_REPO_NAME/www/"
 location_navi = "none"
 
 directory_view_mode = "none"
